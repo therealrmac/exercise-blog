@@ -1,0 +1,20 @@
+{
+	"blog":
+	[
+	{"title": "First Week",
+	 "date": "4/7/2017",
+	 "author": "Ryan McCarty",
+	 "entry": "I'm finally here in Nashville learning how to be a developer and its all very exciting. I've never lived on my own before but maybe with all of the work I have to do it'll keep me occupied.",
+	 "keywords": "First Week, Nashville, excited, work, occupied"},
+	 {"title": "Second Week",
+	  "date": "4/12/2017",
+	  "author": "Ryan McCarty",
+	  "entry": "The second week is here and compared to the first week this one feels like we just shot up in difficulty by 50% at least.  I am keeping a steady pace of work done however, which is great because I really don't want to get behind on anything. I am making friends with some of my fellow classmates too and I think that will be one of my greatest resources later on down the road.",
+	   "keywords": "second, difficulty, steady pace, friends, classmates, resources"},
+	   {"title": "Fourth Week",
+	  "date": "4/27/2017",
+	  "author": "Ryan McCarty",
+	  "entry": "The end of my first month is here and I have already learned so much from NSS. The difficulty with the work continues to get more and more challenging but I'm facing every one of those challenges head on.",
+	   "keywords": "first month, learned, NSS, difficulty, challenging."}
+	]
+}
